@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kaviyarasan G</h1>
 <hr>
 <p align="left"> <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="Churchill" /> </p>
-<h3 align="center"><b></b>A passionate DATA ANALYST  from India</b></h3><hr>
+<h3 align="center"><b></b>A passionate Full Stack Developer from India</b></h3><hr>
 <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif")>
 - 🔭 I’m currently working on *ANDROID DEVELOPMENT*
 
 - 🌱 I’m currently learning *Artificial Intelligence And Data Science*
 
-- 👯 I’m looking to collaborate on *DATA ANALYST*
+- 👯 I’m looking to collaborate on *Full Stack Development*
 
 - 🤝 I’m looking for help with *BACKEND DEVELOPMENT*
 
-- 💬 Ask me about *React Native,Power Bi*
+- 💬 Ask me about *React Native*
 
-- 📫 How to reach me *l.churchill427@gmail.com*
+- 📫 How to reach me *kavigunasekar185@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/churchill-l-8b9645253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="churchill-l-8b9645253" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kaviyarasan-g-11068125a"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaviyarasan-g-11068125a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sleuth_flow_13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sleuth_flow_13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/l_churchill427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="l_churchill427" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/l.churchill427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="l.churchill427" height="30" width="40" /></a>
