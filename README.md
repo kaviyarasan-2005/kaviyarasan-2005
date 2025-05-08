@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaviyarasan G</h1>
 <hr>
 <p align="left"> <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="Churchill" /> </p>
-<h3 align="center"><b></b>A passionate Full Stack Developer from India</b></h3><hr>
+<h3 align="center"><b></b>A passionate Full Stack Developer </b></h3><hr>
 <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif")>
 - 🔭 I’m currently working on *ANDROID DEVELOPMENT*
 
