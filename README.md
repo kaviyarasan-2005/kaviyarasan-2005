@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/kaviyarasan-g-11068125a"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaviyarasan-g-11068125a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sleuth_flow_13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sleuth_flow_13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/l_churchill427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="l_churchill427" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/l.churchill427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="l.churchill427" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/churchill04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="churchill04" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kaviyarasan_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaviyarasan_18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kaviarasan18525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaviarasan18525" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/KaviG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="KaviG" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kavi-185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavi-185" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
