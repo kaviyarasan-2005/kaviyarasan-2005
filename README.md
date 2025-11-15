@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Artificial Intelligence And Data Science*
 
-- 👯 I’m looking to collaborate on *Full Stack Development*
+- 👯 I’m looking to collaborate on *Software Development*
 
 - 🤝 I’m looking for help with *BACKEND DEVELOPMENT*
 
